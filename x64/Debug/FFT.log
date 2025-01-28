@@ -1,0 +1,4 @@
+﻿  FFT.cpp
+E:\Semestr 2\Cyfrowe przetwarzanie sygnałów\FFT\FFT\FFT.cpp(69,30): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+E:\Semestr 2\Cyfrowe przetwarzanie sygnałów\FFT\FFT\FFT.cpp(72,30): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+  FFT.vcxproj -> E:\Semestr 2\Cyfrowe przetwarzanie sygnałów\FFT\x64\Debug\FFT.exe
